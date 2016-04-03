@@ -1,98 +1,98 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
   <action id="$Copy">
-    <keyboard-shortcut first-keystroke="control INSERT" />
-    <keyboard-shortcut first-keystroke="alt C" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="W" />
-    <keyboard-shortcut first-keystroke="control C" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift INSERT" />
-    <keyboard-shortcut first-keystroke="control Y" />
-    <keyboard-shortcut first-keystroke="alt V" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="$Undo">
-    <keyboard-shortcut first-keystroke="shift control MINUS" />
-    <keyboard-shortcut first-keystroke="control SLASH" />
-    <keyboard-shortcut first-keystroke="alt Z" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="control C" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="alt V" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="alt Z" />
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="shift control K" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="EditorDeleteToWordEnd">
-    <keyboard-shortcut first-keystroke="control DELETE" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="D" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="d" />
   </action>
   <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="alt D" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorKillToWordEnd" />
   <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="PAGE_UP" />
-    <keyboard-shortcut first-keystroke="control Z" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="V" />
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="v" />
   </action>
   <action id="EditorTextEnd">
-    <keyboard-shortcut first-keystroke="control END" />
-    <keyboard-shortcut first-keystroke="shift alt PERIOD" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="shift PERIOD" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift period" />
   </action>
   <action id="EditorTextStart">
-    <keyboard-shortcut first-keystroke="control HOME" />
-    <keyboard-shortcut first-keystroke="shift alt COMMA" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="COMMA" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="shift COMMA" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="comma" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="shift comma" />
   </action>
   <action id="Exit">
-    <keyboard-shortcut first-keystroke="alt Q" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
-    <keyboard-shortcut first-keystroke="WINDOWS" second-keystroke="shift UP" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="windows" second-keystroke="shift up" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift alt P" />
-    <keyboard-shortcut first-keystroke="alt P" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="Scala.RunWorksheet">
-    <keyboard-shortcut first-keystroke="control alt W" />
-    <keyboard-shortcut first-keystroke="ESCAPE" second-keystroke="S" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="s" />
   </action>
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="control alt S" />
-    <keyboard-shortcut first-keystroke="alt COMMA" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Switcher">
-    <keyboard-shortcut first-keystroke="control X" second-keystroke="B" />
-    <keyboard-shortcut first-keystroke="control TAB" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="Unwrap">
-    <keyboard-shortcut first-keystroke="shift control DELETE" />
-    <keyboard-shortcut first-keystroke="shift alt BACK_SPACE" />
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
   </action>
   <action id="Vcs.Push" />
 </keymap>
