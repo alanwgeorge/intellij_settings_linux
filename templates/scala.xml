@@ -1,0 +1,5 @@
+<templateSet group="scala">
+  <template name="pln" value="println(s&quot;$END$&quot;)" description="println" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
