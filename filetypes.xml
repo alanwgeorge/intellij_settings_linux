@@ -6,7 +6,4 @@
       <mapping ext="jspx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
-  </component>
 </application>

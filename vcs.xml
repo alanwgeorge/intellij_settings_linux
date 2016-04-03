@@ -3,11 +3,15 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/alanwgeorge/funsets.git" />
+          <option name="url" value="https://github.com/alanwgeorge/objsets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/alanwgeorge/objsets.git" />
+          <option name="url" value="https://github.com/alanwgeorge/uiplay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alanwgeorge/recfun.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -15,7 +19,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="alanwgeorge" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://github.com/alanwgeorge/ScalaActorsPlay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alanwgeorge/quickcheck.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
