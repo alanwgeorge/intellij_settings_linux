@@ -37,10 +37,22 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorKillToWordEnd" />
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="f" />
+  </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="v" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="b" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="ctrl end" />
