@@ -15,6 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="ClassTemplateNavigation" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -55,6 +56,11 @@
   <action id="Exit">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="GoToClass" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="windows" second-keystroke="shift up" />
@@ -66,6 +72,7 @@
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunWorksheet">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="s" />
